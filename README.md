@@ -1,0 +1,1 @@
+This repository contains a JavaScript code example demonstrating a common error involving unexpected null values in function parameters. The `foo` function is designed to handle null values gracefully.  The bug showcases how insufficient null checks can lead to errors. The solution demonstrates proper null handling.
